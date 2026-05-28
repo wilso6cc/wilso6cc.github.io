@@ -1,3 +1,12 @@
+---
+layout: archive
+title: "CV"
+permalink: /cv/
+author_profile: true
+redirect_from:
+  - /resume
+---
+
 # Cameron C. Wilson
 (859) 750-0684 | wilso6cc@mail.uc.edu | [LinkedIn](https://www.linkedin.com/in/cameron-wilson-522011344/)
 
